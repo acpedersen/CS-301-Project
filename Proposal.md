@@ -1,1 +1,1 @@
-Not done yet
+This is the CS 301 101 project proposal for group 8, we will be competing in the Kaggle competition for rating the severity of toxicity of wikipedia comments linked here https://www.kaggle.com/c/jigsaw-toxic-severity-rating. In this project we will be utilizing common NLP techniques to find common topics that relate to toxicity as well as exploring other options for rating how a comment is toxic.
